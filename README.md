@@ -1,9 +1,18 @@
 
 <h1 align="center">👋 Hi, I'm a Biomedical Engineering Student!</h1>
 
+
+
+
 <p align="center">
    Passionate about <strong>AI and ML</strong> 🧠, <strong>Data Science and Data analysis</strong> 📊, and <strong>Medical Technology and innovation</strong> 🧬
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamedazizblaidi&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Mohamedazizblaidi?label=Followers&style=social" alt="GitHub Followers"/>
+</p>
+
 
 ---
 
@@ -35,18 +44,64 @@
 
 ---
 
-## 🛠️ Languages & Tools
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-</p>
+## 💻 Tech Stack 
+
+---
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/MATLAB-F9770E?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin: 0 5px;" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=python&logoColor=white" alt="NumPy" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=python&logoColor=white" alt="Scikit-learn" style="margin: 0 5px;" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/CustomTkinter-478778?style=for-the-badge&logo=python&logoColor=white" alt="CustomTkinter" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Tkinter-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="Transformers" style="margin: 0 5px;" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" style="margin: 0 5px;" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="margin: 0 5px;" />
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+#  Laptop in Use 👨‍💻
+
+![Laptop Acer Aspire 3](https://img.shields.io/badge/Laptop-Acer%20Aspire%203-107C10?style=for-the-badge&logo=laptop&logoColor=white) 
+&nbsp;&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
 
 ---
 
