@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/mohamed-aziz-blaidi-aa0a5a319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1.6K followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn followers"/>
   </a>
-  <a href="blaidi.mohamedaziz@intek.u-jendouba.tn.com">
+  <a href="mailto:blaidi.mohamedaziz@intek.u-jendouba.tn.com">
   <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 </p>
@@ -52,10 +52,10 @@
 
 ## 💼 Projects : 
 
-🌐 Portfolio Website – Personal portfolio built with HTML & CSS  
-🩸 Glucose Monitoring GUI – GUI-based tool for blood sugar tracking using CustomTkinter  
-🤖 Diabetes Detection – Machine learning model to predict diabetes using patient data  
-❤️ Heart Disease Prediction – Classification model for heart disease based on clinical features  
+- 🌐 Portfolio Website – Personal portfolio built with HTML & CSS  
+- 🩸 Glucose Monitoring GUI – GUI-based tool for blood sugar tracking using CustomTkinter  
+- 🤖 Diabetes Detection – Machine learning model to predict diabetes using patient data  
+- ❤️ Heart Disease Prediction – Classification model for heart disease based on clinical features  
 
 ---
 
