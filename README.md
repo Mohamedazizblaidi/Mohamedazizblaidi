@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-aziz-blaidi-aa0a5a319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1.6K followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn followers"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1.7K followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn followers"/>
   </a>
   <a href="mailto:blaidi.mohamedaziz@intek.u-jendouba.tn">
   <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
