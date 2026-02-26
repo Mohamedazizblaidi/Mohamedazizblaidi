@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Aziz%20Blaidi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Biomedical%20Engineering%20%7C%20AI%20%26%20Medical%20Technology&descAlignY=55&descSize=16" width="100%"/>
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Biomedical+Engineering+Student+%F0%9F%A7%AC;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Medical+Technology+Innovator+%F0%9F%A9%BA;Bridging+Medicine+%26+Technology+%F0%9F%94%AC" alt="Typing SVG" />
@@ -144,18 +141,13 @@ print(me.mission)
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedazizblaidi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedazizblaidi&layout=compact&theme=tokyonight&border_radius=12"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedazizblaidi&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedazizblaidi&theme=tokyonight&column=7&no-frame=true&margin-w=8" alt="Trophies"/>
-</div>
+
 
 ---
 
