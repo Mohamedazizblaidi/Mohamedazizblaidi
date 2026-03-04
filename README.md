@@ -128,11 +128,11 @@ print(me.mission)
   <tr>
     <td>⚡</td>
     <td><strong>IEEE INTEK Branch</strong></td>
-    <td>Active Club Member — Engineering & Tech Community</td>
+    <td>Media manager — Engineering & Tech Community</td>
   </tr>
   <tr>
     <td>🎙️</td>
-    <td><strong>Co-Chief Media</strong></td>
+    <td><strong>Active Memeber</strong></td>
     <td>Leo Club Acropolis El Kef — Event Promotion & Communications</td>
   </tr>
 </table>
