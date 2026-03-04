@@ -132,7 +132,7 @@ print(me.mission)
   </tr>
   <tr>
     <td>🎙️</td>
-    <td><strong>Active Memeber</strong></td>
+    <td><strong>Active Member</strong></td>
     <td>Leo Club Acropolis El Kef — Event Promotion & Communications</td>
   </tr>
 </table>
