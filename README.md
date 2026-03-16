@@ -10,7 +10,7 @@
 <!-- Social Badges -->
 <p>
   <a href="https://www.linkedin.com/in/mohamed-aziz-blaidi-aa0a5a319">
-    <img src="https://img.shields.io/badge/LinkedIn-1.7K_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2.1K_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/mohamedazizblaidi">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
