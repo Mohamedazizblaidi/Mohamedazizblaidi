@@ -1,1 +1,1 @@
-Biomedical Engineering student | AI enthusiast | Building, learning & breaking things along the way.
+Biomedical Engineering student | AI enthusiast | Building, learning, and shipping ideas into reality.
